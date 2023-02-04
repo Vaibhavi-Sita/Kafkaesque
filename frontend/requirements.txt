@@ -1,0 +1,4 @@
+anvil==0.0.2
+anvil_uplink==0.4.1
+numpy==1.19.5
+pip==21.3.1
